@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "x+voOCkd8M0nKytKDn908k8DX56fdx+KrCXnsnZkhiE=",
+  "Source": "ECommerce.Api",
+  "BasePath": "_content/ECommerce.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerce.Api\\wwwroot",
+      "Source": "ECommerce.Api",
+      "ContentRoot": "D:\\Projects\\Ecommerce\\Ecommerce\\ECommerce-Backend\\ECommerce.Api\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\Ecommerce\\Ecommerce\\ECommerce-Backend\\ECommerce.Api\\wwwroot\\Product\\70f8b29316be4b069a34cc21a3b1650bpen.jpg",
+      "SourceId": "ECommerce.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Ecommerce\\Ecommerce\\ECommerce-Backend\\ECommerce.Api\\wwwroot\\",
+      "BasePath": "_content/ECommerce.Api",
+      "RelativePath": "Product/70f8b29316be4b069a34cc21a3b1650bpen.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Product\\70f8b29316be4b069a34cc21a3b1650bpen.jpg"
+    }
+  ]
+}
